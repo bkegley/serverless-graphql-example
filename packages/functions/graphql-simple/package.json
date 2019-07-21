@@ -8,7 +8,10 @@
   },
   "workspaces": {
     "nohoist": [
-      "**"
+      "**/apollo-server-lambda/**",
+      "**/apollo-server-lambda/",
+      "**/graphql/**",
+      "**/graphql/"
     ]
   },
   "keywords": [
