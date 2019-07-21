@@ -2,7 +2,8 @@
   "name": "serverless-graphql-example",
   "workspaces": {
     "packages": [
-      "packages/*"
+      "packages/*",
+      "functions/*"
     ]
   },
   "private": true
