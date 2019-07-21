@@ -3,10 +3,6 @@
   "workspaces": {
     "packages": [
       "packages/*"
-    ],
-    "nohoist": [
-      "**/apollo-server-lambda/**",
-      "**/graphql/**"
     ]
   },
   "private": true
