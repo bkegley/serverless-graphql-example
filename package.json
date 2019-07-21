@@ -1,0 +1,7 @@
+{
+  "name": "serverless-graphql-example",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
