@@ -4,6 +4,9 @@
     "packages": [
       "packages/*",
       "functions/*"
+    ],
+    "nohoist": [
+      "**"
     ]
   },
   "private": true
